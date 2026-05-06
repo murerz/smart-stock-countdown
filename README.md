@@ -33,4 +33,4 @@ This app uses a subscription-based model. Please see the Shopify App Store listi
 
 ## Support
 
-If you have any questions or need assistance, please reach out to our support team at `support@example.com`.
+If you have any questions or need assistance, please reach out to our support team at `smart-stock-countdown@googlegroups.com`.
