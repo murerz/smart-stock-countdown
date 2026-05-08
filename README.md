@@ -1,6 +1,5 @@
 # Smart Stock Countdown
 
-
 **Create Urgency and Boost Sales with a Real-Time Stock Countdown!**
 
 Smart Stock Countdown helps you motivate customers to buy now by showing a real-time countdown of a product's remaining stock. By highlighting scarcity, you can significantly increase conversion rates and turn browsers into buyers.
