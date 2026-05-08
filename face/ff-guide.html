@@ -1,0 +1,22 @@
+<html>
+
+<body>
+    <ffsection id="guide">
+        <div class="ff-guide">
+            Write Guide
+        </div>
+    </ffsection>
+
+    <script>
+
+        (async ($, $ff, sections) => {
+            const guideTemplate = sections('guide')
+
+            return (target) => {
+                $(target).html(guideTemplate())
+            };
+        })
+    </script>
+</body>
+
+</html>

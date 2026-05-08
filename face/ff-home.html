@@ -1,0 +1,22 @@
+<html>
+
+<body>
+    <ffsection id="home">
+        <div class="ff-home">
+            Write home
+        </div>
+    </ffsection>
+
+    <script>
+
+        (async ($, $ff, sections) => {
+            const homeTemplate = sections('home')
+
+            return (target) => {
+                $(target).html(homeTemplate())
+            };
+        })
+    </script>
+</body>
+
+</html>
