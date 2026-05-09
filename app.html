@@ -15,22 +15,6 @@
     <link href="assets/main.css" rel="stylesheet" />
     <link href="assets/jquery.loading.css" rel="stylesheet" />
 
-    <script src="https://unpkg.com/@shopify/app-bridge@3"></script>
-    <script>
-      var bla = new URLSearchParams(location.search).get("host")
-      var AppBridge = window['app-bridge'];
-      var actions = AppBridge.actions;
-      var createApp = AppBridge.default;
-
-        if (bla) {
-      var app = createApp({
-        apiKey: 'efcdc3b10bc5fd7d1d94abf982b03a91',
-        host: bla,
-        forceRedirect: true // This simulates the "Allow All" by forcing 
-                            // the browser to stay in sync with Shopify
-      });
-        }
-    </script>
     <script src="assets/jquery.js"></script>
     <script src="assets/jquery.loading.js"></script>
     <script src="assets/doT.js"></script>
