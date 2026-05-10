@@ -1,36 +1,51 @@
 # Smart Stock Countdown
 
-**Create Urgency and Boost Sales with a Real-Time Stock Countdown!**
+## Drive Immediate Sales with Smart Stock Countdown
 
-Smart Stock Countdown helps you motivate customers to buy now by showing a real-time countdown of a product's remaining stock. By highlighting scarcity, you can significantly increase conversion rates and turn browsers into buyers.
+**Transform "Just Browsing" into "Sold Out" with Zero Impact on Store Speed.**
 
-Our app integrates directly into your Shopify theme as a Theme App Extension, meaning it's incredibly fast and won't slow down your store. The countdown is displayed to shoppers without making any calls to an external server, ensuring a seamless and speedy experience for your customers.
+Smart Stock Countdown is designed for high-growth Shopify merchants who need to drive urgency without technical headaches. Unlike traditional apps that rely on slow external servers, our solution lives entirely within your theme. This means your pages stay lightning-fast, and your customer data stays private.
 
-## Key Features
+![Sample](https://smart-stock-countdown.shopify.murerz.com/images/sample1.png)
 
-*   **Real-Time Stock Countdown:** Display the remaining quantity of a product to create a sense of urgency.
-*   **Easy Customization:** Control the appearance and text of your countdown banner directly from the Shopify theme editor.
-*   **Blazing Fast Performance:** Built as a theme extension, the countdown timer adds no server lag or slowdowns to your product pages.
-*   **Seamless Integration:** The app block fits perfectly into your existing theme, providing a native and professional look.
-*   **Simple Setup:** Get up and running in minutes with our intuitive admin dashboard.
+### Why Top Sellers Choose Smart Stock Countdown
 
-## How It Works
+*   **Lightning-Fast Loading:** Because the app runs 100% within your theme (no external server calls), it won't slow down your mobile or desktop performance.
+*   **Privacy First:** Zero permissions required. We don't access your sensitive store data or customer information—it just works.
+*   **Complete Visual Control:** Match your brand perfectly. Customize text, colors, borders, and animations directly through the Shopify Theme Editor you already use.
+*   **Zero Latency Scarcity:** Real-time stock updates that feel like a native part of your store design.
 
-1.  **Install the App:** Add Smart Stock Countdown to your Shopify store.
-2.  **Configure Settings:** Use the simple admin panel to set up your countdown preferences.
-3.  **Enable the Countdown Block:** Open the Shopify Theme Editor, navigate to a product page, and add the "Stock Countdown" block. That's it!
+---
 
-## Benefits for Your Store
+### Intelligent Stock Management
 
-*   **Increase Conversions:** Encourage hesitant customers to make a purchase before the item sells out.
-*   **Create Urgency & Scarcity:** Leverage proven marketing principles to drive sales.
-*   **Enhance Product Pages:** Add a dynamic, engaging element to your product listings.
-*   **No Performance Impact:** Maintain a fast, high-quality user experience for your shoppers.
+Take control of how you communicate scarcity. You define the exact stock thresholds that trigger different visual cues for your customers.
 
-## Pricing
+| Level | Purpose | Merchant Control |
+| :--- | :--- | :--- |
+| **Normal** | Standard Availability | Keep it clean and informative for well-stocked items. |
+| **Warning** | Initial Scarcity | Gently nudge customers as stock begins to dip. |
+| **Hot** | High Urgency | Use bold colors and **pulse effects** for items about to sell out. |
+| **Sold Out** | Final Status | Clear communication for out-of-stock variants. |
 
-This app uses a subscription-based model. Please see the Shopify App Store listing for detailed pricing information.
+---
 
-## Support
+### How to Boost Your Conversions in 3 Minutes
 
-If you have any questions or need assistance, please reach out to our support team at `smart-stock-countdown@googlegroups.com`.
+1.  **Install:** Add the app to your Shopify store instantly.
+2.  **Define Your Levels:** Set your stock thresholds for "Warning" and "Hot" states in the simple admin panel.
+3.  **Design & Deploy:** Open your **Theme Editor**, add the "Stock Countdown" block, and customize the four states with your brand's colors and custom messaging.
+
+### The Impact on Your Bottom Line
+
+*   **Higher Conversion Rates:** Use automated scarcity to reduce cart abandonment.
+*   **Custom Branding:** Each of the four stock states is fully customizable—from borders to "pulse" animations.
+*   **SEO & Speed Friendly:** No bulky scripts or external calls to hurt your Google ranking or page speed scores.
+
+---
+
+### Support & Feedback
+
+Need help setting up your "Hot" state pulse effects or custom thresholds? Our team is here to help you maximize your sales.
+
+**Contact us:** `smart-stock-countdown@googlegroups.com`
